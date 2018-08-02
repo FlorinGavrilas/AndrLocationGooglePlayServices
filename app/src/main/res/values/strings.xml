@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndrLocationGooglePlayServices</string>
+    <string name="btn_location">Request Location</string>
+    <string name="tv_location">Apasa pe buton pentru a arata locatia</string>
+</resources>
